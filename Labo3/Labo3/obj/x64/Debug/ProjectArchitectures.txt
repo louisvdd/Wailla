@@ -1,0 +1,2 @@
+C:\Wrkfldr\EnvDevLog\Labo3\Labo3\Labo3.csproj;x64
+C:\Wrkfldr\EnvDevLog\Labo3\Model\Model.csproj;x64
